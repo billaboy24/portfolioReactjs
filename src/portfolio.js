@@ -9,7 +9,7 @@ const header = {
     name: 'Kathirvan Pramasivam',
     role: 'Front End Devoloper',
     description:
-      'Let me keep it simple. Once upon time,coding was something I was forced to learn in order to pass my subject. But now,it has become a part of my life. Passionate about software developments and coding and keen to be always up to date about current and upcoming technologies. My daily routine is Coding,Gaming,Eat,Sleep,Repeat. Currently,pursuing the career path of Full Stack Developer. Starting my career in Front-End Development before jump into Back-end Development and the reason because I believe that if you do not understand the frontend,you will never understand the backend. I have good fundamentals knowledge of Programming and Software Development. Scroll down to know more about it. ',
+      'Let me keep it simple. Once upon time,coding was something I was forced to learn in order to pass my subject. But now,it has become a part of my life. Passionate about software developments and coding and keen to be always up to date about current and upcoming technologies. Currently,pursuing the career path of Full Stack Developer. Starting my career in Front-End Development before jump into Back-end Development and the reason because I believe that if you do not understand the frontend,you will never understand the backend. I have good fundamentals knowledge of Programming and Software Development. Scroll down to know more about it. ',
     resume: 'https://drive.google.com/file/d/19ngWyGw8VjvvY6Y_hkx3rPd5D4La1yaC/view?usp=sharing',
     social: {
       linkedin: 'https://www.linkedin.com/in/kathirvanpramasivam/',

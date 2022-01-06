@@ -1,0 +1,17 @@
+.skills__list {
+  max-width: 450px;
+  width: 95%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: black;
+}
+
+.skills__list-item {
+  margin: 0.5em;
+  border-radius: 25px;
+}
+.skills__list-item:hover {
+  background-color: var(--clr-primary);
+}

@@ -18,14 +18,8 @@ main,
 footer {
   position: relative;
   overflow: hidden;
-  z-index: 1;
-  background-color: transparent;
-}
 
-.Projects {
-  position: relative;
-  overflow: hidden;
-  z-index: 1;
+  background-color: transparent;
 }
 
 main {

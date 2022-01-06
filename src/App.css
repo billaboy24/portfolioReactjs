@@ -1,7 +1,7 @@
 :root {
   --clr-bg: #fcfcfc;
   --clr-bg-alt: #fff;
-  --clr-fg: white;
+  --clr-fg: black;
   --clr-fg-alt: #8e8e8e;
   --clr-primary: #ffd700;
   --shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
@@ -11,15 +11,6 @@
   line-height: 1.5;
   color: var(--clr-fg);
   background-color: var(--clr-bg);
-}
-
-header,
-main,
-footer {
-  position: relative;
-  overflow: hidden;
-  z-index: 1;
-  background-color: transparent;
 }
 
 main {

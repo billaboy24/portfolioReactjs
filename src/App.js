@@ -6,15 +6,17 @@ import Projects from './components/Projects/projects';
 import Footer from './components/Footer/footer';
 
 import Header from './components/Header/header';
-import ParticleBackground from './components/particlesBackground';
+
 
 
 function App() {
   
   return (
     
+      
     <div className="app">
-      <ParticleBackground/>
+     
+     
       <Header />
       <main>
         <About/>
@@ -26,6 +28,7 @@ function App() {
 
       
     </div>
+ 
   );
 }
 

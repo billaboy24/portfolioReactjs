@@ -3,7 +3,7 @@ import './footer.css'
 const Footer = () => (
   <footer className='footer'>
     <a
-      href='#about'
+      href='https://kdevportfolio.netlify.app'
       className='link footer__link'
     >
       Created By Kathirvan Pramasivamm

@@ -39,6 +39,7 @@
 }
 
 .nav-font {
-  font-family: Garamond, serif;
-  font-size: 2rem;
+  font-family: "Poppins", sans-serif;
+  font-size: 1.3rem;
+  font-weight: 500;
 }
